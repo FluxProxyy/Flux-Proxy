@@ -1,2 +1,2 @@
-# Flux-Proxy
-goated proxy onb 
+# flux proxy
+proxy for school 
